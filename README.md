@@ -3,11 +3,8 @@ To College or Not to College: Prediction of Post Collegiate Earnings and Debts
 Machine Learning, Missing Data Completion, Average Trends, Single and Multivariate Regression
 
 The Project consists of three folders: Code, Figures and HelperFiles.
-
 The Code folder consists of all the files required to run the program. 
-
 The Figures folder consists of a list of images depicting the results and trends obtained.
-
 The HelperFiles folder consists of a list of files which are read by the programs to perform computation. These files provide a list of the features chosen, the list of prediction variables and the map of the variables with their type : Categorical or Continuous. 
 
 How to run the project:
