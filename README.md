@@ -20,8 +20,10 @@ The functions related to imputations are present in the imputations.py file.
 - Sklearn: 0.18 
 
 # Trend Predictions:
-Mean Earnings
+Mean Earnings:
+
 ![alt text](https://github.com/nithya4/CS-589-College-Scorecard/blob/master/Figures/YearVsmean_earnings.png "Average Earnings")
 
-Mean Debt
+Mean Debt:
+
 ![alt text](https://github.com/nithya4/CS-589-College-Scorecard/blob/master/Figures/YearVsmean_debt.png "Average Debt")
